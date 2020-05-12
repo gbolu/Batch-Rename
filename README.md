@@ -1,4 +1,4 @@
-# Project Title
+# Batch Rename
 
 This simple tool, as its name suggests is used to rename file(s) in its directory.
 
